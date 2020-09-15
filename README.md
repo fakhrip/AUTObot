@@ -12,7 +12,7 @@ And because of all these things that have broken my inner peace, then i will not
 
 # Critics
 
-Wait, why would i even want to criticize myself ? :thonkang:.
+Wait, why would i even want to criticize myself ? 🤔.
 
 ----
 
