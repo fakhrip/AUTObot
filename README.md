@@ -69,10 +69,22 @@ Why did i call the login script as sleepynightnight.js (referenced from spies in
 
 Okay im gonna straight to giving you step by step of how to install and use this thing
 
-- Open terminal / command prompt / whatever you call it
-- Move to the directory of the project (`cd wherever/you/put/this/thing`)
-- Run the install.sh script (`./install.sh`)
-- Run the application (`./autobot`)
+### Linux
+
+- For linux user (specifically ones with apt package manager), you can clone the repo and run the `install.sh` script
+
+### Windows / Mac
+
+- Download nodejs [here](https://nodejs.org/en/download/)
+- Create a folder 
+- Open terminal and go to the folder you just created
+- Run `npm install nightmare`
+- Download 2 scripts in [release](https://github.com/fakhrip/AUTObot/releases) page, [main script](https://github.com/fakhrip/AUTObot/releases/download/v0.01-alpha/autobot) and [secondary script](https://github.com/fakhrip/AUTObot/releases/download/v0.01-alpha/sleepynightnight.js)
+- Placed it in the folder you just created
+- Run the `autobot` by clicking it twice
+
+I have not tested these steps yet (cause im too lazy and im a proud linux user :v),  
+so if you found a problem in those steps please [contact me](https://fakhrip.github.io).
 
 ### Error
 
